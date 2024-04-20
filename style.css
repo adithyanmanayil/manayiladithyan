@@ -88,10 +88,10 @@ div{/*
 .pic-s{
 	display: none;
 }
-.pic{
+/*.pic{
 	background-image: radial-gradient(circle 350px, rgba(212, 173, 252, 0.6),
 	 rgba(212, 173, 252, 0.3), rgba(212, 173, 252, 0.1), rgba(255,0,0,0));
-}
+}*/
 .pic img, .pic-s img{
 	z-index: -1;
 	background: transparent;
@@ -119,17 +119,17 @@ div{/*
 
 /*Media Query*/
 @media (max-width: 1024px){
-	.pic{background-image: radial-gradient(circle 190px, rgba(212, 173, 252, 0.6),
+	/*.pic{background-image: radial-gradient(circle 190px, rgba(212, 173, 252, 0.6),
 	 	rgba(212, 173, 252, 0.3), rgba(212, 173, 252, 0.1), rgba(255,0,0,0));
-	}
+	}*/
 	/*menu*/
 	/*intro*/
 
 }
 @media (max-width: 1440px){
-	.pic{background-image: radial-gradient(circle 200px, rgba(212, 173, 252, 0.6),
+	/*.pic{background-image: radial-gradient(circle 200px, rgba(212, 173, 252, 0.6),
 	 	rgba(212, 173, 252, 0.3), rgba(212, 173, 252, 0.1), rgba(255,0,0,0));
-	}
+	}*/
 }
 @media (max-width: 768px){
 	[class*="col-"] {
@@ -168,8 +168,8 @@ div{/*
 	/*intro*/
 	.pic-s{
 		display: block;
-		background-image: radial-gradient(circle 200px, rgba(212, 173, 252, 0.6),
-	 	rgba(212, 173, 252, 0.3), rgba(212, 173, 252, 0.1), rgba(255,0,0,0));
+		/*background-image: radial-gradient(circle 200px, rgba(212, 173, 252, 0.6),
+	 	rgba(212, 173, 252, 0.3), rgba(212, 173, 252, 0.1), rgba(255,0,0,0));*/
 	}
 	.pic{
 		display: none;
