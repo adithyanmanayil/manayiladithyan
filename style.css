@@ -8,9 +8,9 @@
 body{
 	background-color: #352F44;
 }
-div{/*
+div{
 	border-style: solid;
-	border-color: #ffffff;*/
+	border-color: #ffffff;
 
 /*12 grid*/
 .container-fluid{width:100%; max-width: 2560px;}
