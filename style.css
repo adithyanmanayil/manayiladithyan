@@ -58,9 +58,6 @@ div{/*
 }
 
 /*Introduction*/
-.intro{display: flex;
-	align-items: center;
-}
 .intro-text{
 	text-align: left;
 	padding: 10%;
