@@ -127,6 +127,10 @@ div{
 
 }
 @media (max-width: 768px){
+	.intro{
+		display: flex;
+		align-items: center;
+	}
 	[class*="col-"] {
   		width: 100%;
 	}
